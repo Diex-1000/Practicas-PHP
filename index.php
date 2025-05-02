@@ -17,7 +17,7 @@
         $saludo = "Buenas noches";
         $titulo = '<h1 class="text-danger">Hola desde PHP</h1>';
         echo $titulo;
-        echo "Hola Fabricio ".$saludo;
+        echo "Hola Diego ".$saludo;
 
         $x = 1;
         $contador = 1;
